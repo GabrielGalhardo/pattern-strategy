@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\galhardo.dsn.erp\\.nuget\\packages\\": {}
+    "C:\\Users\\arqui\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\galhardo.dsn.erp\\Desktop\\strategy-app\\strategy\\strategy.csproj",
+      "projectUniqueName": "C:\\Users\\arqui\\Desktop\\Nova pasta\\pattern-strategy\\strategy\\strategy.csproj",
       "projectName": "strategy",
-      "projectPath": "C:\\Users\\galhardo.dsn.erp\\Desktop\\strategy-app\\strategy\\strategy.csproj",
-      "packagesPath": "C:\\Users\\galhardo.dsn.erp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\galhardo.dsn.erp\\Desktop\\strategy-app\\strategy\\obj\\",
+      "projectPath": "C:\\Users\\arqui\\Desktop\\Nova pasta\\pattern-strategy\\strategy\\strategy.csproj",
+      "packagesPath": "C:\\Users\\arqui\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arqui\\Desktop\\Nova pasta\\pattern-strategy\\strategy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\galhardo.dsn.erp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

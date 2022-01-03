@@ -1,0 +1,16 @@
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\bin\Debug\net5.0\strategy.exe
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\bin\Debug\net5.0\strategy.deps.json
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\bin\Debug\net5.0\strategy.runtimeconfig.json
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\bin\Debug\net5.0\strategy.runtimeconfig.dev.json
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\bin\Debug\net5.0\strategy.dll
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\bin\Debug\net5.0\ref\strategy.dll
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\bin\Debug\net5.0\strategy.pdb
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.csproj.AssemblyReference.cache
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.AssemblyInfoInputs.cache
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.AssemblyInfo.cs
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.csproj.CoreCompileInputs.cache
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.dll
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\ref\strategy.dll
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.pdb
+C:\Users\arqui\Desktop\Nova pasta\pattern-strategy\strategy\obj\Debug\net5.0\strategy.genruntimeconfig.cache
